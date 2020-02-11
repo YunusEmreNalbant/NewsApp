@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078753905315",
+    "firebase_url": "https://news-app-2c4a8.firebaseio.com",
+    "project_id": "news-app-2c4a8",
+    "storage_bucket": "news-app-2c4a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078753905315:android:bb1f4e1ee562de12798d16",
+        "android_client_info": {
+          "package_name": "com.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078753905315-7ctlo1s33kbthv0ereck55nr9imghcob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLA2z3wkwDVFAqDBo_hieyfY6JJj8d-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078753905315-7ctlo1s33kbthv0ereck55nr9imghcob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
